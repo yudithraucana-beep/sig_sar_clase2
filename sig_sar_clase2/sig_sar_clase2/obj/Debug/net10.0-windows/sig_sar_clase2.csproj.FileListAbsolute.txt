@@ -1,0 +1,77 @@
+D:\miaplicacion\sig_sar_clase2\sig_sar_clase2\bin\Debug\net10.0-windows\sig_sar_clase2.exe
+D:\miaplicacion\sig_sar_clase2\sig_sar_clase2\bin\Debug\net10.0-windows\sig_sar_clase2.deps.json
+D:\miaplicacion\sig_sar_clase2\sig_sar_clase2\bin\Debug\net10.0-windows\sig_sar_clase2.runtimeconfig.json
+D:\miaplicacion\sig_sar_clase2\sig_sar_clase2\bin\Debug\net10.0-windows\sig_sar_clase2.dll
+D:\miaplicacion\sig_sar_clase2\sig_sar_clase2\bin\Debug\net10.0-windows\sig_sar_clase2.pdb
+D:\miaplicacion\sig_sar_clase2\sig_sar_clase2\obj\Debug\net10.0-windows\sig_sar_clase2.Properties.Resources.resources
+D:\miaplicacion\sig_sar_clase2\sig_sar_clase2\obj\Debug\net10.0-windows\sig_sar_clase2.csproj.GenerateResource.cache
+D:\miaplicacion\sig_sar_clase2\sig_sar_clase2\obj\Debug\net10.0-windows\sig_sar_clase2.GeneratedMSBuildEditorConfig.editorconfig
+D:\miaplicacion\sig_sar_clase2\sig_sar_clase2\obj\Debug\net10.0-windows\sig_sar_clase2.AssemblyInfoInputs.cache
+D:\miaplicacion\sig_sar_clase2\sig_sar_clase2\obj\Debug\net10.0-windows\sig_sar_clase2.AssemblyInfo.cs
+D:\miaplicacion\sig_sar_clase2\sig_sar_clase2\obj\Debug\net10.0-windows\sig_sar_clase2.csproj.CoreCompileInputs.cache
+D:\miaplicacion\sig_sar_clase2\sig_sar_clase2\obj\Debug\net10.0-windows\sig_sar_clase2.dll
+D:\miaplicacion\sig_sar_clase2\sig_sar_clase2\obj\Debug\net10.0-windows\refint\sig_sar_clase2.dll
+D:\miaplicacion\sig_sar_clase2\sig_sar_clase2\obj\Debug\net10.0-windows\sig_sar_clase2.pdb
+D:\miaplicacion\sig_sar_clase2\sig_sar_clase2\obj\Debug\net10.0-windows\sig_sar_clase2.genruntimeconfig.cache
+D:\miaplicacion\sig_sar_clase2\sig_sar_clase2\obj\Debug\net10.0-windows\ref\sig_sar_clase2.dll
+D:\miaplicacion\sig_sar_clase2\sig_sar_clase2\obj\Debug\net10.0-windows\sig_sar_clase2.Login.resources
+D:\miaplicacion\sig_sar_clase2\sig_sar_clase2\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\miaplicacion\sig_sar_clase2\sig_sar_clase2\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\miaplicacion\sig_sar_clase2\sig_sar_clase2\bin\Debug\net10.0-windows\Npgsql.dll
+D:\miaplicacion\sig_sar_clase2\sig_sar_clase2\obj\Debug\net10.0-windows\sig_sar_clase2.csproj.AssemblyReference.cache
+D:\miaplicacion\sig_sar_clase2\sig_sar_clase2\obj\Debug\net10.0-windows\sig_sar_clase2.Foradministrador.resources
+D:\miaplicacion\sig_sar_clase2\sig_sar_clase2\obj\Debug\net10.0-windows\sig_sar_.C8F256A1.Up2Date
+E:\programacion ruben\sig_sar_clase2\sig_sar_clase2\obj\Debug\net10.0-windows\sig_sar_clase2.csproj.AssemblyReference.cache
+E:\programacion ruben\sig_sar_clase2\sig_sar_clase2\obj\Debug\net10.0-windows\sig_sar_clase2.Properties.Resources.resources
+E:\programacion ruben\sig_sar_clase2\sig_sar_clase2\obj\Debug\net10.0-windows\sig_sar_clase2.View.Admin.frmGestion_de_categoria1.resources
+E:\programacion ruben\sig_sar_clase2\sig_sar_clase2\obj\Debug\net10.0-windows\sig_sar_clase2.Login.resources
+E:\programacion ruben\sig_sar_clase2\sig_sar_clase2\obj\Debug\net10.0-windows\sig_sar_clase2.Foradministrador.resources
+E:\programacion ruben\sig_sar_clase2\sig_sar_clase2\obj\Debug\net10.0-windows\sig_sar_clase2.csproj.GenerateResource.cache
+E:\programacion ruben\sig_sar_clase2\sig_sar_clase2\obj\Debug\net10.0-windows\sig_sar_clase2.GeneratedMSBuildEditorConfig.editorconfig
+E:\programacion ruben\sig_sar_clase2\sig_sar_clase2\obj\Debug\net10.0-windows\sig_sar_clase2.AssemblyInfoInputs.cache
+E:\programacion ruben\sig_sar_clase2\sig_sar_clase2\obj\Debug\net10.0-windows\sig_sar_clase2.AssemblyInfo.cs
+E:\programacion ruben\sig_sar_clase2\sig_sar_clase2\obj\Debug\net10.0-windows\sig_sar_clase2.csproj.CoreCompileInputs.cache
+E:\programacion ruben\sig_sar_clase2\sig_sar_clase2\obj\Debug\net10.0-windows\sig_sar_clase2.View.Admin.FrmCategoria.resources
+E:\programacion ruben\sig_sar_clase2\sig_sar_clase2\bin\Debug\net10.0-windows\sig_sar_clase2.exe
+E:\programacion ruben\sig_sar_clase2\sig_sar_clase2\bin\Debug\net10.0-windows\sig_sar_clase2.deps.json
+E:\programacion ruben\sig_sar_clase2\sig_sar_clase2\bin\Debug\net10.0-windows\sig_sar_clase2.runtimeconfig.json
+E:\programacion ruben\sig_sar_clase2\sig_sar_clase2\bin\Debug\net10.0-windows\sig_sar_clase2.dll
+E:\programacion ruben\sig_sar_clase2\sig_sar_clase2\bin\Debug\net10.0-windows\sig_sar_clase2.pdb
+E:\programacion ruben\sig_sar_clase2\sig_sar_clase2\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\programacion ruben\sig_sar_clase2\sig_sar_clase2\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\programacion ruben\sig_sar_clase2\sig_sar_clase2\bin\Debug\net10.0-windows\Npgsql.dll
+E:\programacion ruben\sig_sar_clase2\sig_sar_clase2\obj\Debug\net10.0-windows\sig_sar_.C8F256A1.Up2Date
+E:\programacion ruben\sig_sar_clase2\sig_sar_clase2\obj\Debug\net10.0-windows\sig_sar_clase2.dll
+E:\programacion ruben\sig_sar_clase2\sig_sar_clase2\obj\Debug\net10.0-windows\refint\sig_sar_clase2.dll
+E:\programacion ruben\sig_sar_clase2\sig_sar_clase2\obj\Debug\net10.0-windows\sig_sar_clase2.pdb
+E:\programacion ruben\sig_sar_clase2\sig_sar_clase2\obj\Debug\net10.0-windows\sig_sar_clase2.genruntimeconfig.cache
+E:\programacion ruben\sig_sar_clase2\sig_sar_clase2\obj\Debug\net10.0-windows\ref\sig_sar_clase2.dll
+G:\programacion ruben\sig_sar_clase2\sig_sar_clase2\obj\Debug\net10.0-windows\sig_sar_clase2.csproj.AssemblyReference.cache
+G:\programacion ruben\sig_sar_clase2\sig_sar_clase2\obj\Debug\net10.0-windows\sig_sar_clase2.Properties.Resources.resources
+G:\programacion ruben\sig_sar_clase2\sig_sar_clase2\obj\Debug\net10.0-windows\sig_sar_clase2.View.Admin.FrmCategoria.resources
+G:\programacion ruben\sig_sar_clase2\sig_sar_clase2\obj\Debug\net10.0-windows\sig_sar_clase2.View.Admin.frmGestion_de_categoria1.resources
+G:\programacion ruben\sig_sar_clase2\sig_sar_clase2\obj\Debug\net10.0-windows\sig_sar_clase2.View.Admin.FrmProductos.resources
+G:\programacion ruben\sig_sar_clase2\sig_sar_clase2\obj\Debug\net10.0-windows\sig_sar_clase2.View.Admin.FrmRoles.resources
+G:\programacion ruben\sig_sar_clase2\sig_sar_clase2\obj\Debug\net10.0-windows\sig_sar_clase2.View.Admin.FrmUsuario.resources
+G:\programacion ruben\sig_sar_clase2\sig_sar_clase2\obj\Debug\net10.0-windows\sig_sar_clase2.Login.resources
+G:\programacion ruben\sig_sar_clase2\sig_sar_clase2\obj\Debug\net10.0-windows\sig_sar_clase2.Foradministrador.resources
+G:\programacion ruben\sig_sar_clase2\sig_sar_clase2\obj\Debug\net10.0-windows\sig_sar_clase2.csproj.GenerateResource.cache
+G:\programacion ruben\sig_sar_clase2\sig_sar_clase2\obj\Debug\net10.0-windows\sig_sar_clase2.GeneratedMSBuildEditorConfig.editorconfig
+G:\programacion ruben\sig_sar_clase2\sig_sar_clase2\obj\Debug\net10.0-windows\sig_sar_clase2.AssemblyInfoInputs.cache
+G:\programacion ruben\sig_sar_clase2\sig_sar_clase2\obj\Debug\net10.0-windows\sig_sar_clase2.AssemblyInfo.cs
+G:\programacion ruben\sig_sar_clase2\sig_sar_clase2\obj\Debug\net10.0-windows\sig_sar_clase2.csproj.CoreCompileInputs.cache
+G:\programacion ruben\sig_sar_clase2\sig_sar_clase2\bin\Debug\net10.0-windows\sig_sar_clase2.exe
+G:\programacion ruben\sig_sar_clase2\sig_sar_clase2\bin\Debug\net10.0-windows\sig_sar_clase2.deps.json
+G:\programacion ruben\sig_sar_clase2\sig_sar_clase2\bin\Debug\net10.0-windows\sig_sar_clase2.runtimeconfig.json
+G:\programacion ruben\sig_sar_clase2\sig_sar_clase2\bin\Debug\net10.0-windows\sig_sar_clase2.dll
+G:\programacion ruben\sig_sar_clase2\sig_sar_clase2\bin\Debug\net10.0-windows\sig_sar_clase2.pdb
+G:\programacion ruben\sig_sar_clase2\sig_sar_clase2\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\programacion ruben\sig_sar_clase2\sig_sar_clase2\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+G:\programacion ruben\sig_sar_clase2\sig_sar_clase2\bin\Debug\net10.0-windows\Npgsql.dll
+G:\programacion ruben\sig_sar_clase2\sig_sar_clase2\obj\Debug\net10.0-windows\sig_sar_.C8F256A1.Up2Date
+G:\programacion ruben\sig_sar_clase2\sig_sar_clase2\obj\Debug\net10.0-windows\sig_sar_clase2.dll
+G:\programacion ruben\sig_sar_clase2\sig_sar_clase2\obj\Debug\net10.0-windows\refint\sig_sar_clase2.dll
+G:\programacion ruben\sig_sar_clase2\sig_sar_clase2\obj\Debug\net10.0-windows\sig_sar_clase2.pdb
+G:\programacion ruben\sig_sar_clase2\sig_sar_clase2\obj\Debug\net10.0-windows\sig_sar_clase2.genruntimeconfig.cache
+G:\programacion ruben\sig_sar_clase2\sig_sar_clase2\obj\Debug\net10.0-windows\ref\sig_sar_clase2.dll
+G:\programacion ruben\sig_sar_clase2\sig_sar_clase2\obj\Debug\net10.0-windows\sig_sar_clase2.View.Admin.FrmPrecio.resources

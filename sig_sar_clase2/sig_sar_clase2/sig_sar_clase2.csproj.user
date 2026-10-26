@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="View\Admin\FrmCategoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Admin\frmGestion_de_categoria1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Admin\FrmPrecio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Admin\FrmProductos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Admin\FrmRoles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Admin\FrmUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Foradministrador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
